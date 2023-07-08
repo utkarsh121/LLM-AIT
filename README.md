@@ -1,5 +1,5 @@
 # LLM-AIT
-**A**dversarial (and malicious) **I**nput prompt **T**esting tool/script for LLMs such as CHatGPT, OpenAI, Bard etc.
+**A**dversarial (and malicious) **I**nput prompt **T**esting tool/script for LLMs such as ChatGPT, OpenAI, Bard etc.
 
 ## OpenAI Response Evaluation
 
