@@ -21,8 +21,8 @@ You will also need an OpenAI API key to access the OpenAI API. Follow the OpenAI
 1. Clone the repository or download the project files to your local machine.
 
 2. Update the API key:
-   - Open the Python script file (`llm_ait_cmd.py' or 'llm_ait_csv.py') as per your need.
-   - Note: The file `llm_ait_cmd.py' will put the output on the terminal itself, while `llm_ait_csv.py' will dump it in a CSV.
+   - Open the Python script file (`llm_ait_cmd.py`) or (`llm_ait_csv.py`) as per your need.
+   - Note: The file (`llm_ait_cmd.py`) will put the output on the terminal itself, while (`llm_ait_csv.py`) will dump it in a CSV.
    - Replace the placeholder value `"YOUR_API_KEY"` with your actual OpenAI API key.
 
 3. Prepare the input and harmful keywords files:
@@ -35,7 +35,7 @@ You will also need an OpenAI API key to access the OpenAI API. Follow the OpenAI
    - Open a terminal or command prompt and navigate to the project directory.
    - Execute the Python script by running the following command:
      ```
-     python3 llm_ait_<your chosen type>.py
+     python3 llm_ait_<your_chosen_type_of_output>.py
      ```
 
 5. View the results(CMD):
