@@ -2,7 +2,7 @@ import openai
 
 # Set up OpenAI API
 
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 # Read inputs from a file
 with open("inputs.txt", "r") as file:
